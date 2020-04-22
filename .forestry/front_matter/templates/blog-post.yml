@@ -12,3 +12,5 @@ fields:
       format: markdown
   label: Label
   description: Description Description Description
+pages:
+- pages/testpage.md
