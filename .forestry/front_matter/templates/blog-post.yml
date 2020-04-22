@@ -34,5 +34,9 @@ fields:
     max: 100
   label: Textarea2
   description: Textarea 2 hat einen besonderen Text
+- name: togglelabel
+  type: boolean
+  label: ToggleLabel
+  description: toggle
 pages:
 - pages/testpage.md
