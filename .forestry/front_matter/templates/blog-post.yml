@@ -12,5 +12,15 @@ fields:
       format: markdown
   label: Label
   description: Description Description Description
+- name: testarea
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: textarea
+  description: textarea
 pages:
 - pages/testpage.md
