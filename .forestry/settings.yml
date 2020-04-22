@@ -13,7 +13,7 @@ sections:
   - blog-post
 upload_dir: static/media
 public_path: "/static/media"
-front_matter_path: ''
+front_matter_path: "/pages/front-matters"
 use_front_matter_path: true
 file_template: ":filename:"
 build:
