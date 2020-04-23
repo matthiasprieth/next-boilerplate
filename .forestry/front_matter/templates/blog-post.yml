@@ -47,5 +47,10 @@ fields:
   config:
     min: 
     max: 
+- name: include
+  type: include
+  config: {}
+  template: blog-post
+  label: include
 pages:
 - pages/testpage.md
