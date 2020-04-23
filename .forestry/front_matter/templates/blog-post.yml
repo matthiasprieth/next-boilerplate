@@ -38,19 +38,5 @@ fields:
   type: boolean
   label: ToggleLabel
   description: toggle
-- name: blog_post_collection
-  type: blocks
-  label: blog post collection
-  template_types:
-  - blog-post
-  - blog-post
-  config:
-    min: 
-    max: 
-- name: include
-  type: include
-  config: {}
-  template: blog-post
-  label: include
 pages:
 - pages/testpage.md
