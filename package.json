@@ -18,7 +18,7 @@
     "analyze": "cross-env BUNDLE_ANALYZE=both npm run build",
     "export": "cross-env NODE_ENV=production next export",
     "cli": "pankod-cli add",
-    "forestry-preview": "next -p 8080 -H 0.0.0.0"
+    "forestry-preview": "next -p 80 -H 0.0.0.0"
   },
   "dependencies": {
     "@zeit/next-bundle-analyzer": "^0.1.2",
